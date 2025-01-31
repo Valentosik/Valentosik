@@ -1,3 +1,4 @@
 ./ @fox777
 ./docs
 *.js @lunaresmare
+*.go @valentosik
