@@ -1,4 +1,4 @@
 
 ./docs
 *.js @lunaresmare
-*.go @ifox777
+# *.go @ifox777
